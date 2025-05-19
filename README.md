@@ -7,5 +7,5 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 🛠️ Skills: Flutter, Java, C, Firebase, MongoDB Atlas, Git, GitHub, Linux, HTML, CSS, Python  
 🌐 Languages: Tamil (native), English  
 🎮 Hobbies: Coding, building PCs, electronics, and gaming  
-📬 Reach me at **ananthdomain@gmail.com**
+📬 Reach me at **anantharajsekar@gmail.com**
 
