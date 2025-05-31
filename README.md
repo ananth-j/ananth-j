@@ -27,13 +27,18 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 ![Networking](https://img.shields.io/badge/Networking-Basic-blue?style=for-the-badge)
 ![Play Console](https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=google-play&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google-ads&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 
 ## 📊 GitHub Stats
 
 ![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananth-j&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-j&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananth-j&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-j&layout=compact&theme=radical)
+
 
 
 
