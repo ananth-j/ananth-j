@@ -11,8 +11,6 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,6 +27,25 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 ![Networking](https://img.shields.io/badge/Networking-Basic-blue?style=for-the-badge)
 ![Play Console](https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=google-play&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google-ads&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantharaj&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantharaj&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantharaj&theme=radical)](https://git.io/streak-stats)
+
+
+## 📊 GitHub Stats
+
+![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantharaj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantharaj&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantharaj&theme=radical)](https://git.io/streak-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=anantharaj&color=blue&style=flat-square)
+
 
 
 
