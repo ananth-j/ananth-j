@@ -31,20 +31,13 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 
 ## 📊 GitHub Stats
 
-![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantharaj&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantharaj&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantharaj&theme=radical)](https://git.io/streak-stats)
+![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananth-j&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-j&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananth-j&theme=radical)](https://git.io/streak-stats)
 
 
-## 📊 GitHub Stats
 
-![Anantharaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantharaj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantharaj&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantharaj&theme=radical)](https://git.io/streak-stats)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=anantharaj&color=blue&style=flat-square)
 
 
 
