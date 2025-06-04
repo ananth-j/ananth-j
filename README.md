@@ -8,7 +8,7 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 🔗 My [LinkedIn](https://www.linkedin.com/in/anantharaj-sekar)    
 🌐 Languages: Tamil (native), English  
 🎮 Hobbies: Coding, building PCs, electronics, and gaming  
-📬 Reach me at **anantharajsekar@gmail.com**
+📬 Reach me at **anantharaj6223@gmail.com**
 
 ## 🛠️ Skills
 
