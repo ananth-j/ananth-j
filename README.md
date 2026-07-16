@@ -26,17 +26,15 @@
 
 ### 📱 Featured Apps
 
-| App | Highlights |
-|---|---|
-| **GK Quiz India** | Flagship quiz app — continuous analytics-driven UX iteration & monetization |
-| **USA GK Quiz** | Region-focused trivia app, part of the GK app family |
-| **Periodic Table – 118 Elements** | Reference/education app covering all elements |
-| **GK - Be Smart** | General knowledge quiz app |
-| **AR GLB Viewer 3D** | Augmented reality app for viewing 3D `.glb` models |
+- **GK Quiz India**, **USA GK Quiz**, **GK - Be Smart** — GK/trivia apps, hand-tuned ASO and Play Store listings
+- **Periodic Table – 118 Elements** — reference/education app
+- **AR GLB Viewer 3D** — AR viewer for `.glb` 3D models
+- **ScoreServiceProvider** — published package with its own docs, plus other contributions on [pub.dev](https://pub.dev)
 
-Every app ships with hand-tuned ASO — keyword-audited Play Store listings, iterative scoring, and global vs. regional positioning.
+### 🔨 Currently Building
 
-Also maintaining **ScoreServiceProvider**, a published package with its own documentation site, and contributing packages to [pub.dev](https://pub.dev).
+- 🖥️ **8-bit CPU Simulator**
+- 📦 **EXE Builder** for Windows
 
 ---
 
@@ -69,7 +67,6 @@ Also maintaining **ScoreServiceProvider**, a published package with its own docu
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-white?style=for-the-badge&logo=puppeteer&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-Basic-blue?style=for-the-badge)
 
 **IDEs**
 
@@ -81,6 +78,7 @@ Also maintaining **ScoreServiceProvider**, a published package with its own docu
 **Game Dev**
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-FFFFFF?style=for-the-badge&logo=godot-engine&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
